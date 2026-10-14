@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    padding: 20px;
+    font-family: Arial,sans-serif;
+    background-color: #101827;
+    color: white;
+    text-align: center;
+}
+
+.container {
+    max-width: 760px;
+    margin: 0 auto;
+}
+
+h1 {
+    color: #60a5fa;
+}
+
+h2 {
+    color: #facc15;
+}
+
+.informacoes {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    flex-wrap: wrap;
+    
+}
